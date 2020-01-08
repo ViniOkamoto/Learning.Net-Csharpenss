@@ -1,0 +1,11 @@
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.exe
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.deps.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.runtimeconfig.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.runtimeconfig.dev.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.dll
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\bin\Debug\netcoreapp3.1\cursodotnet.pdb
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\obj\Debug\netcoreapp3.1\cursodotnet.csprojAssemblyReference.cache
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\obj\Debug\netcoreapp3.1\cursodotnet.AssemblyInfoInputs.cache
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\obj\Debug\netcoreapp3.1\cursodotnet.AssemblyInfo.cs
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\obj\Debug\netcoreapp3.1\cursodotnet.dll
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\cursodotnet\obj\Debug\netcoreapp3.1\cursodotnet.pdb
