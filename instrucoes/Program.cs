@@ -130,13 +130,46 @@ namespace instrucoes
                     double x = double.Parse(args[0]);
                     double y = double.Parse(args[1]);
                     Console.WriteLine(Dividir(x, y));
-                }catch(InvalidOperationException e)
+                }
+                catch(InvalidOperationException e)
                 {
                     Console.WriteLine(e.Message);
                 }
+                catch(Exception e)
+                {
+                    Console.WriteLine($"Erro genérico: {e.Message}");
+                }
+                finally 
+                {
+                    Console.WriteLine("Código finalizado");
+                }
             }
-        static void Main(string[] args)
+
+        static void InstrucaoUsing(string[] args)
         {
+            using(System.IO.TextWriter w = System.IO.File.CreateText("texte.txt"))
+            {
+                w.WriteLine("Oi/n");
+                w.WriteLine("funcionou/n");
+                w.WriteLine("vamos lá!");
+            }
         }
+        static void UsandoArrayMatrizes(string[] args)
+        {
+            // Array unidimensional
+            int[] a = new int [10];
+            for (int i = 0; i< a.Length; i++)
+            {
+                a[i] = i * i;
+            }
+            for (int i = 0; i< a.Length; i++)
+            {
+                Console.WriteLine($"a[{i}] = a {a[i]}");
+            }
+
+            int[,] b = new int [10, 5];
+            int [,,] c = new int [10, 5, 2];
+        }
+
     }
 }
