@@ -1,0 +1,11 @@
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.exe
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.deps.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.runtimeconfig.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.runtimeconfig.dev.json
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.dll
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\bin\Debug\netcoreapp3.1\ExemploCurso.pdb
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\obj\Debug\netcoreapp3.1\ExemploCurso.csprojAssemblyReference.cache
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\obj\Debug\netcoreapp3.1\ExemploCurso.AssemblyInfoInputs.cache
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\obj\Debug\netcoreapp3.1\ExemploCurso.AssemblyInfo.cs
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\obj\Debug\netcoreapp3.1\ExemploCurso.dll
+C:\Users\vinicius.goncalves\Desktop\Estudos\DioCourse\exemplocurso\obj\Debug\netcoreapp3.1\ExemploCurso.pdb
